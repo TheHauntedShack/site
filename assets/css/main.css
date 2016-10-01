@@ -2657,8 +2657,10 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #ffffff; /*Official Susan G Komen Color*/
+			background-color: #ffffff; /*Official Cancer Support Community Color*/
+			/*background-image: url("images/cscbkgrnd.png"); /*When you gettin way too fancy lol*/
 			color: #c7ebe8;
+
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
